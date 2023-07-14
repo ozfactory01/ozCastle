@@ -1,0 +1,3 @@
+GITの使い方
+git add
+git commit
